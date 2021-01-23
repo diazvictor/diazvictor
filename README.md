@@ -1,16 +1,20 @@
-### Hi there 👋
+<h4>Hi there 👋</h4>
 
-<!--
-**diazvictor/diazvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Victor, a technology enthusiast dedicated to web and application development, in love with lua.
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 Lua | Php | SQL 
+* 🖇️ LGI
+* 🛢️ MySQL | SQLite 
+* :octocat: Git | Github
+* 🌐 HTML | CSS | Javascript
+* 💠 Glade | GTK+
+
+## 📫 Get in touch
+- Website - [https://diazvictor.gitlab.io](https://diazvictor.gitlab.io)
+- Telegram - [https://t.me/diazvictor](https://t.me/diazvictor)
+
+or give some ♥ on [mail](mailto:victor.vector008@gmail.com) .
