@@ -2,23 +2,21 @@
 
 a technology enthusiast dedicated to web and application development, in love with lua.
 
-## ⚡ Tech Stack
+## ⚡ A litte more about me
 
-Here are a few things I've picked up along my learning journey.
-
-* 🗣 Lua | Php | SQL 
-* 🖇️ LGI
-* 🛢️ MySQL | SQLite 
-* :octocat: Git | Github
-* 🌐 HTML | CSS | Javascript
-* 💠 Glade | GTK+
-
-## ✍️ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/diazvictor/solus-frontend/issues/1) in [diazvictor/solus-frontend](https://github.com/diazvictor/solus-frontend)
-2. 🎉 Merged PR [#1](https://github.com/diazvictor/solus-frontend/pull/1) in [diazvictor/solus-frontend](https://github.com/diazvictor/solus-frontend)
-<!--END_SECTION:activity-->
+```lua
+-- This table contains a little more about me
+local victor = {
+	username = 'diazvictor',
+	code = {'Javascript', 'Lua', 'PHP', 'HTML', 'CSS', 'SQLite'},
+	tools = {'Glade', 'GTK+', 'JQuery', 'Bulma', 'MDUI', 'Semantic UI'}
+	editors = {'Geany', 'Textadept'},
+	tech_communities = {
+		'Moonsteal', 'Luachi', 'HarvestOrDie'
+	},
+	challenge = 'I am doing the #100DaysOfCode challenge focused on application development (web/desktop) with lua or php.'
+}
+```
 
 ## 📫 Get in touch
 - Website - [https://diazvictor.gitlab.io](https://diazvictor.gitlab.io)
