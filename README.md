@@ -19,6 +19,9 @@ local diazvictor = {
 
 ## :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Primeros pasos con LGI (lua y gtk)](/post/primeros-pasos-con-lua-gtk/)
+- [Guia Mqtt Desde La Terminal](/post/guia-mqtt-desde-la-terminal/)
+- [Manual Basico Sobre Lua](/post/manual-basico-lua/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in touch
