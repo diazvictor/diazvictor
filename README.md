@@ -13,6 +13,11 @@ Here are a few things I've picked up along my learning journey.
 * 🌐 HTML | CSS | Javascript
 * 💠 Glade | GTK+
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📫 Get in touch
 - Website - [https://diazvictor.gitlab.io](https://diazvictor.gitlab.io)
 - Telegram - [https://t.me/diazvictor](https://t.me/diazvictor)
