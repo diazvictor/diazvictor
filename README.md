@@ -1,6 +1,6 @@
-## Hi there 👋
+![Header](https://github.com/diazvictor/diazvictor/blob/main/header.png)
 
-I'm Victor, a technology enthusiast dedicated to web and application development, in love with lua.
+a technology enthusiast dedicated to web and application development, in love with lua.
 
 ## ⚡ Tech Stack
 
