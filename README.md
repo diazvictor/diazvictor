@@ -6,9 +6,8 @@ a technology enthusiast dedicated to web and application development, in love wi
 
 ```lua
 -- This table contains a little more about me
-local victor = {
-	username = 'diazvictor',
-	code = {'Javascript', 'Lua', 'PHP', 'HTML', 'CSS', 'SQLite'},
+local diazvictor = {
+	languages = {'Javascript', 'Lua', 'PHP', 'HTML', 'CSS', 'SQLite'},
 	tools = {'Glade', 'GTK+', 'JQuery', 'Bulma', 'MDUI', 'Semantic UI'}
 	editors = {'Geany', 'Textadept'},
 	tech_communities = {
