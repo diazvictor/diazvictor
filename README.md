@@ -17,6 +17,10 @@ local diazvictor = {
 }
 ```
 
+# :closed_book: Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📫 Get in touch
 - Website - [https://diazvictor.gitlab.io](https://diazvictor.gitlab.io)
 - Telegram - [https://t.me/diazvictor](https://t.me/diazvictor)
