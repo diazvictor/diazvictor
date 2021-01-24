@@ -16,6 +16,8 @@ Here are a few things I've picked up along my learning journey.
 ## ✍️ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/diazvictor/solus-frontend/issues/1) in [diazvictor/solus-frontend](https://github.com/diazvictor/solus-frontend)
+2. 🎉 Merged PR [#1](https://github.com/diazvictor/solus-frontend/pull/1) in [diazvictor/solus-frontend](https://github.com/diazvictor/solus-frontend)
 <!--END_SECTION:activity-->
 
 ## 📫 Get in touch
