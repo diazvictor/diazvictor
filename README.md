@@ -1,4 +1,4 @@
-<h4>Hi there 👋</h4>
+## Hi there 👋
 
 I'm Victor, a technology enthusiast dedicated to web and application development, in love with lua.
 
@@ -13,7 +13,7 @@ Here are a few things I've picked up along my learning journey.
 * 🌐 HTML | CSS | Javascript
 * 💠 Glade | GTK+
 
-## :zap: Recent Activity
+## ✍️ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
