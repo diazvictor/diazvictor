@@ -1,11 +1,11 @@
 ![Header](https://github.com/diazvictor/diazvictor/blob/main/header.png)
 
-a technology enthusiast dedicated to web and application development, in love with lua.
+Un entusiasta de la tecnología dedicado al desarrollo de aplicaciones (web/desktop), enamorado de lua.
 
-## ⚡ A litte more about me
+## ⚡ Un poco más sobre mí
 
 ```lua
--- This table contains a little more about me
+-- Esta tabla contiene un poco más sobre mí
 local diazvictor = {
 	languages = {'Javascript', 'Lua', 'PHP', 'HTML', 'CSS', 'SQLite'},
 	tools = {'Glade', 'GTK+', 'JQuery', 'Bulma', 'MDUI', 'Semantic UI'}
@@ -13,19 +13,19 @@ local diazvictor = {
 	tech_communities = {
 		'Moonsteal', 'Luachi', 'HarvestOrDie'
 	},
-	challenge = 'I am doing the #100DaysOfCode challenge focused on application development (web/desktop) with lua or php.'
+	challenge = 'Estoy haciendo el reto #100DaysOfCode centrado en el desarrollo de aplicaciones (web/desktop) con lua o php.'
 }
 ```
 
-## :closed_book: Latest Blog Posts
+## :closed_book: Últimas publicaciones del blog
 <!-- BLOG-POST-LIST:START -->
 - [Primeros pasos con LGI (lua y gtk)](/post/primeros-pasos-con-lua-gtk/)
 - [Guia Mqtt Desde La Terminal](/post/guia-mqtt-desde-la-terminal/)
 - [Manual Basico Sobre Lua](/post/manual-basico-lua/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📫 Get in touch
-- Website - [https://diazvictor.gitlab.io](https://diazvictor.gitlab.io)
+## 📫 Ponte en contacto conmigo.
+- Blog - [https://diazvictor.gitlab.io](https://diazvictor.gitlab.io)
 - Telegram - [https://t.me/diazvictor](https://t.me/diazvictor)
 
-or give some ♥ on [mail](mailto:victor.vector008@gmail.com) .
+o dame un poco de ♥ en mi [correo](mailto:victor.vector008@gmail.com) .
