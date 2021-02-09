@@ -19,6 +19,7 @@ local diazvictor = {
 
 ## :closed_book: Últimas publicaciones del blog
 <!-- BLOG-POST-LIST:START -->
+- [Agregando estilos css con LGI (lua + gtk)](https://diazvictor.github.io/post/estilos-para-gtk3-con-lua-css/)
 - [Primeros pasos con LGI (lua y gtk)](https://diazvictor.github.io/post/primeros-pasos-con-lua-gtk/)
 - [Guia Mqtt Desde La Terminal](https://diazvictor.github.io/post/guia-mqtt-desde-la-terminal/)
 - [Manual Basico Sobre Lua](https://diazvictor.github.io/post/manual-basico-lua/)
