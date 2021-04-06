@@ -2,9 +2,7 @@
 
 ---
 
-<p align="center">
-	Un amante de la tecnología dedicado al desarrollo de aplicaciones (web/desktop), enamorado de lua.
-</p>
+Un amante de la tecnología dedicado al desarrollo de aplicaciones (web/desktop), enamorado de lua.
 
 ## Lenguajes y Herramientas
 
