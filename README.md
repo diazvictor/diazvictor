@@ -27,9 +27,9 @@ Un amante de la tecnología dedicado al desarrollo de aplicaciones (web/desktop)
 ### :closed_book: Mis últimas publicaciones.
 
 <!-- BLOG-POST-LIST:START -->
-- [Agregando estilos css con LGI (lua + gtk)](https://diazvictor.github.io/post/estilos-para-gtk3-con-lua-css/)
-- [Primeros pasos con LGI (lua + gtk)](https://diazvictor.github.io/post/primeros-pasos-con-lua-gtk/)
-- [Guia Mqtt Desde La Terminal](https://diazvictor.github.io/post/guia-mqtt-desde-la-terminal/)
+- [Agregando estilos css con LGI](https://diazvictor.github.io/post/agregando-estilos-css-con-lgi/)
+- [Primeros pasos con LGI](https://diazvictor.github.io/post/primeros-pasos-con-lgi/)
+- [Cómo usar mosquitto desde la terminal](https://diazvictor.github.io/post/como-usar-mosquitto-desde-la-terminal/)
 - [Manual Basico Sobre Lua](https://diazvictor.github.io/post/manual-basico-lua/)
 <!-- BLOG-POST-LIST:END -->
 
