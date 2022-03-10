@@ -1,10 +1,10 @@
 ![Header](https://github.com/diazvictor/diazvictor/blob/main/header.png?raw=true)
 
-![PHP](https://img.shields.io/badge/PHP-Intermedio-777BB4)
-![HTML](https://img.shields.io/badge/HTML-Experto-E34F26)
-![CSS](https://img.shields.io/badge/CSS-Experto-1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermedio-yellow)
-![Lua](https://img.shields.io/badge/Lua-Experto-2C2D72)
+![PHP](https://img.shields.io/badge/PHP-777BB4)
+![HTML](https://img.shields.io/badge/HTML-E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Lua](https://img.shields.io/badge/Lua-2C2D72)
 
 Un amante de la tecnología dedicado al desarrollo de aplicaciones (web/desktop), enamorado de **lua**.
 
