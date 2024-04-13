@@ -3,8 +3,10 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4)
 ![HTML](https://img.shields.io/badge/HTML-E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Lua](https://img.shields.io/badge/Lua-2C2D72)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow)
+![LUA](https://img.shields.io/badge/LUA-2C2D72)
+![SQL](https://img.shields.io/badge/SQL-0078D7)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C)
 
 Un amante de la tecnología dedicado al desarrollo de aplicaciones (web/desktop), enamorado de **lua**.
 
